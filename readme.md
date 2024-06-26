@@ -68,3 +68,6 @@
 * `npm start`
 
 * if you want to grow your code vertically not horizontally go to `view >word wrap option in that file` you can show these options in vscode header
+
+### Praveen
+I modified readme file
